@@ -1,0 +1,33 @@
+body {
+    font-family: 'Dela Gothic One', cursive;
+    }
+ 
+.input-area {
+    background-color: #c1ffff;
+    width: 90%;
+    height: 30px;
+    padding: 8px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+.incomplete-area {
+    background-color: #c6ffe2;
+    width: 90%;
+    min-height: 200px;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+.conplete-area {
+    background-color: #ffffe0;
+    width: 90%;
+    min-height: 200px;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
